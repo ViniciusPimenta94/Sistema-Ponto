@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ponto.png</file>
+    <file>handshake.png</file>
+    <file>user.png</file>
+    <file>return-to-the-past.png</file>
+    <file>lunch.png</file>
+    <file>almoco.jpg</file>
+    <file>pause.jpg</file>
+    <file>saida.jpg</file>
+    <file>return.jpg</file>
+    <file>usuario.png</file>
+    <file>digital-clock-time.png</file>
+  </qresource>
+</RCC>
